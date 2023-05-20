@@ -1,0 +1,9 @@
+Relation Note :
+
+1. Artist -> Album = Many [One] to Many [One]
+    * One artist can have more than one album
+    * One album can be owned by many artist
+    * [One] When creating an album cannot be empty and must have an owner
+    * [One] Artist must have albums
+
+2.
